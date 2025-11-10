@@ -1,0 +1,12 @@
+id,nom,prenom,admin,telephone,mail,actif,clef_connexion
+1,JRIDI,DINE,0,0624221008,dinejridi1@gmail.com,1,3e5d8f902ea30adfe5ce81191016bdf9c56a0a78916157ee953f7ef847a73708
+2,THIERRY,T,1,0102030405,non@gnma.com,1,efc9f38a3ed4d3378634b2046dc66db5e36f6470ff03d54f695531008cad6576
+3,PAS,PERMIS,0,0102030406,dinejridi@gmaisl.com,0,ca287eda7ae05481385d1db8e9416e6a
+4,Oui,Oui,0,0011220011,test@gmail.com,1,1
+5,Oui,Oui,1,0011220011,testz@gmail.com,1,1
+6,Oui,Oui,0,0011220011,teset@gmail.com,1,1
+7,Oui,Oui,0,0011220011,tezzst@gmail.com,1,1
+8,Oui,Oui,1,0011220011,tdest@gmail.com,1,1
+9,Oui,Oui,0,0011220011,tdesddt@gmail.com,1,1
+10,Oui,Oui,0,0011220011,tdwesddt@gmail.com,1,1
+11,Oui,Oui,0,0011220011,tdffwesddt@gmail.com,0,1
